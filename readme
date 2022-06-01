@@ -1,1 +1,10 @@
 This project is for Introduction to Block Chain and Bitcoin
+
+To run the project 
+Download and install npm
+Clone this repo
+Install necessary packages
+Open terminal and go inside project
+Type command "npx hardhat test"
+
+The code will be run and it passes CRUD (Create Read Update Delete) part of twitter clone.
